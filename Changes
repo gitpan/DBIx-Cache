@@ -1,0 +1,6 @@
+Revision history for Perl extension DBI::Cache.
+
+0.01  Tue Oct  9 18:31:12 2001
+	- original version; created by h2xs 1.1.1.4 with options
+		-A -X -n DBI::Cache
+

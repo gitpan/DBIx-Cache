@@ -1,0 +1,9 @@
+Cache.pm
+i.pl
+postgresql.sql
+postgresql.sh
+select.sql
+Changes
+MANIFEST
+Makefile.PL
+test.pl
